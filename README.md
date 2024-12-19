@@ -1,8 +1,14 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 [ASK ME ANYTHING (Chatbot)](https://github.com/Ishan0106/AI-CHATBOT)
 
-Currently, two official plugins are available:
+**Description**:  
+A chatbot application built using React.js, Tailwind CSS, and Gemini API for advanced conversational features.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Live Demo**: [ASK ME ANYTHING](https://ai-chatbot-chi-two.vercel.app/)
+
+**Tech Stack**:  
+- Frontend: React.js, Tailwind CSS  
+- APIs: Gemini API  
+
+---
